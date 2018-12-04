@@ -17,11 +17,11 @@
 .today{
     display: flex;
     justify-content: space-around;
-    margin: 0px 9px;
+    margin: 0px 17px;
 }
 .today img{
-    width: 145px;
-    height: 96px;
+    width: 137px;
+    height: 90px;
     position: relative;
     z-index: 0;
 }
