@@ -1,0 +1,24 @@
+/* RESTAURANT */
+.box{
+    margin: 17px;
+    padding: 7.5px;
+    border-radius: 2px;
+    cursor: pointer;
+ }
+ .box:not(:last-child){
+     margin-bottom: 1rem;
+ }
+ .box .image{
+     height: 64px;
+     width: 95px;
+     margin-top: 3px;
+ }
+ .box .content p{
+     font-size: 12px;
+ }
+ .box .icon{
+     margin: 0 2px;
+ }
+ .box .icon{
+     color: rgb(5, 219, 148);
+ }

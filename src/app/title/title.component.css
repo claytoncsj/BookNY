@@ -1,0 +1,10 @@
+/* TITLE */
+
+.title h1{
+    font-size: 14px;
+    font-weight: bold;
+    color: #878787;
+    padding-left: 23px; 
+    text-transform: uppercase;
+}
+/*  */

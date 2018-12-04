@@ -1,0 +1,15 @@
+ /*  */
+ .view-more a{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+ }
+ .view-more a{
+     background-color: rgb(5, 219, 148);
+     border: none;
+     color: #fff;
+     width: 36%;
+     font-size: 13px;
+     border-radius: 2px;
+     padding: 8px 20px;
+ }
